@@ -1,0 +1,30 @@
+
+* { 
+    color: black;
+     }
+     .body{
+        background-image: url('C:/Users/KOTRESH/shiva/src/assets/images/3a.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment:absolute;
+        }  
+    .form-container{
+        border:0px solid white;
+        padding:20px 30px;
+        margin-top:20vh;
+        height:300px;
+        -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+        -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+        box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    }
+      .re{
+        margin-left: 20%;
+      }
+      .ga{
+          margin-left: 10px;
+      }
+      .in{
+          padding-top: 10px;
+          margin-bottom: 5px;
+      }
+      
